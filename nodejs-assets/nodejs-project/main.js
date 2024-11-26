@@ -2,9 +2,9 @@
 // The main.js file will be overwritten in updates/reinstalls.
 
 var rn_bridge = require("rn-bridge");
-var sodium = require("sodium-native");
+var fs = require("fs-native-extensions");
 
-console.log(sodium);
+console.log({ fs });
 
 // Echo every message received from react-native.
 rn_bridge.channel.on("message", (msg) => {

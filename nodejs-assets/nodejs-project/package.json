@@ -10,6 +10,6 @@
   "author": "janeasystems",
   "license": "",
   "dependencies": {
-    "sodium-native": "^4.3.1"
+    "fs-native-extensions": "1.2.3"
   }
 }
