@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "nodejs-mobile-expo-example",
+    "slug": "nodejs-mobile-expo-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
