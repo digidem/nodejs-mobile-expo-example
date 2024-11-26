@@ -3,8 +3,15 @@
     "name": "nodejs-mobile-expo-example",
     "slug": "nodejs-mobile-expo-example",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.andrewchou.nodejsmobileexpoexample",
+      "splash": {
+        "backgroundColor": "#25292e"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.andrewchou.nodejsmobileexpoexample"
+    }
   }
 }

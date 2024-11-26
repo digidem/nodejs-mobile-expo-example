@@ -1,4 +1,4 @@
-package com.nodejsmobileexpoexample
+package com.andrewchou.nodejsmobileexpoexample
 
 import android.os.Build
 import android.os.Bundle

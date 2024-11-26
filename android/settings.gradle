@@ -1,4 +1,4 @@
-rootProject.name = 'nodejsmobileexpoexample'
+rootProject.name = 'nodejs-mobile-expo-example'
 
 dependencyResolutionManagement {
   versionCatalogs {
